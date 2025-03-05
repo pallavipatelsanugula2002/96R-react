@@ -13,6 +13,7 @@ function App(){
        <HeadingComponent1/>
        <HeadingComponent2/>
        <HeadingComponent3/>
+       <h1>hello</h1>
 
 
 
